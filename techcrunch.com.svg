@@ -1,38 +1,34 @@
-<svg width="975" height="872" viewBox="0 0 975 872" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="436" cy="436" r="436" fill="url(#paint0_linear)"/>
-<rect width="312" height="72" transform="translate(111 311)" fill="white"/>
-<rect width="288" height="97" transform="translate(231 599) rotate(-90)" fill="white"/>
-<rect width="192" height="72" transform="translate(543 311)" fill="white"/>
-<rect width="288" height="72" transform="translate(447 527)" fill="white"/>
-<rect width="192" height="72" transform="translate(447 599) rotate(-90)" fill="white"/>
-<rect width="312" height="24" transform="translate(111 287)" fill="white" fill-opacity="0.2"/>
-<rect width="312" height="24" transform="translate(423 599)" fill="white" fill-opacity="0.2"/>
-<rect width="97" height="24" transform="translate(231 599)" fill="white" fill-opacity="0.2"/>
-<rect width="192" height="24" transform="translate(543 287)" fill="white" fill-opacity="0.2"/>
-<rect width="96" height="24" transform="translate(519 407) rotate(-90)" fill="white" fill-opacity="0.244"/>
-<rect width="96" height="24" transform="translate(423 407) rotate(-90)" fill="white" fill-opacity="0.244"/>
-<rect width="120" height="24" transform="translate(423 383)" fill="white" fill-opacity="0.172"/>
-<rect width="72" height="24" transform="translate(447 383)" fill="white" fill-opacity="0.432"/>
-<rect width="24" height="192" transform="translate(423 407)" fill="white" fill-opacity="0.76"/>
-<rect width="24" height="96" transform="translate(519 407)" fill="white" fill-opacity="0.76"/>
-<rect width="24" height="192" transform="translate(543 527) rotate(-90)" fill="white" fill-opacity="0.76"/>
-<rect width="95" height="24" transform="translate(328 383)" fill="white" fill-opacity="0.5"/>
-<rect width="192" height="24" transform="translate(543 383)" fill="white" fill-opacity="0.5"/>
-<rect width="24" height="216" transform="translate(207 383)" fill="white" fill-opacity="0.656"/>
-<rect width="24" height="120" transform="translate(111 407) rotate(-90)" fill="white" fill-opacity="0.656"/>
-<rect width="62" height="51" transform="translate(481 503)" fill="white" fill-opacity="0.928"/>
-<rect width="24" height="24" transform="translate(423 287)" fill="white" fill-opacity="0.08"/>
-<rect width="24" height="24" transform="translate(87 383)" fill="white" fill-opacity="0.164"/>
-<rect width="24" height="24" transform="translate(207 599)" fill="white" fill-opacity="0.12"/>
-<rect width="24" height="72" transform="translate(735 311)" fill="white" fill-opacity="0.12"/>
-<rect width="24" height="24" transform="translate(87 287)" fill="white" fill-opacity="0.08"/>
-<rect width="24" height="72" transform="translate(87 311)" fill="white" fill-opacity="0.196"/>
-<rect width="24" height="24" transform="translate(519 287)" fill="white" fill-opacity="0.08"/>
-<rect width="24" height="24" transform="translate(735 287)" fill="white" fill-opacity="0.08"/>
-<rect width="24" height="24" transform="translate(735 383)" fill="white" fill-opacity="0.08"/>
-<rect width="24" height="24" transform="translate(951 287)" fill="white" fill-opacity="0.08"/>
+<svg width="932" height="932" viewBox="0 0 932 932" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="466" cy="466" r="466" fill="url(#paint0_linear)"/>
+<rect width="312" height="72" transform="translate(149 341)" fill="white"/>
+<rect width="288" height="97" transform="translate(269 629) rotate(-90)" fill="white"/>
+<rect width="192" height="72" transform="translate(581 341)" fill="white"/>
+<rect width="288" height="72" transform="translate(485 557)" fill="white"/>
+<rect width="192" height="72" transform="translate(485 629) rotate(-90)" fill="white"/>
+<rect width="312" height="24" transform="translate(149 317)" fill="white" fill-opacity="0.2"/>
+<rect width="312" height="24" transform="translate(461 629)" fill="white" fill-opacity="0.2"/>
+<rect width="97" height="24" transform="translate(269 629)" fill="white" fill-opacity="0.2"/>
+<rect width="192" height="24" transform="translate(581 317)" fill="white" fill-opacity="0.2"/>
+<rect width="96" height="24" transform="translate(557 437) rotate(-90)" fill="white" fill-opacity="0.244"/>
+<rect width="96" height="24" transform="translate(461 437) rotate(-90)" fill="white" fill-opacity="0.244"/>
+<rect width="120" height="24" transform="translate(461 413)" fill="white" fill-opacity="0.172"/>
+<rect width="72" height="24" transform="translate(485 413)" fill="white" fill-opacity="0.432"/>
+<rect width="24" height="192" transform="translate(461 437)" fill="white" fill-opacity="0.76"/>
+<rect width="24" height="96" transform="translate(557 437)" fill="white" fill-opacity="0.76"/>
+<rect width="24" height="192" transform="translate(581 557) rotate(-90)" fill="white" fill-opacity="0.76"/>
+<rect width="95" height="24" transform="translate(366 413)" fill="white" fill-opacity="0.5"/>
+<rect width="192" height="24" transform="translate(581 413)" fill="white" fill-opacity="0.5"/>
+<rect width="24" height="216" transform="translate(245 413)" fill="white" fill-opacity="0.656"/>
+<rect width="24" height="120" transform="translate(149 437) rotate(-90)" fill="white" fill-opacity="0.656"/>
+<rect width="62" height="51" transform="translate(519 533)" fill="white" fill-opacity="0.928"/>
+<rect width="24" height="24" transform="translate(461 317)" fill="white" fill-opacity="0.08"/>
+<rect width="24" height="24" transform="translate(125 413)" fill="white" fill-opacity="0.164"/>
+<rect width="24" height="24" transform="translate(245 629)" fill="white" fill-opacity="0.12"/>
+<rect width="24" height="24" transform="translate(125 317)" fill="white" fill-opacity="0.08"/>
+<rect width="24" height="72" transform="translate(125 341)" fill="white" fill-opacity="0.196"/>
+<rect width="24" height="24" transform="translate(557 317)" fill="white" fill-opacity="0.08"/>
 <defs>
-<linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(414.5 994.5) scale(850.259) rotate(-130.66)">
+<linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(443.021 1062.93) scale(908.763) rotate(-130.66)">
 <stop stop-color="#00D301"/>
 <stop offset="0.415682" stop-color="#2AC65C"/>
 <stop offset="0.551457" stop-color="#35C074"/>
